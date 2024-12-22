@@ -33,4 +33,4 @@ This approach focuses solely on the geographical coordinates of POS. The user ca
 
 ## Conclusion
 
-The GIFs above illustrate the two modeling approaches used to predict POS success. While the data is simulated, it shows how geographical and commercial data can be structured and processed for success prediction in a POS context.
+The GIFs above illustrate the two modeling approaches used to predict POS success. While the data is simulated (confidential causes), it shows how geographical and commercial data can be structured and processed for success prediction in a POS context.
