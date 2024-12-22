@@ -1,4 +1,4 @@
-# Ooredoo-POS-Success-Prediction
+# Ooredoo POS Success Prediction
 
 
 ## Project Description
