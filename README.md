@@ -3,7 +3,7 @@
 
 ## Project Description
 
-This project aims to be a prototype or a presentation of anppraoch to predict the success of Ooredoo Points of Sale (POS) in Algeria using geographical and commercial data. The data is simulated (due to confidential and security causes) to illustrate the structure needed for effective analysis and model building.
+This project aims to be a prototype or a presentation of an appraoch to predict the success of Ooredoo Points of Sale (POS) in Algeria using geographical and commercial data. The data is simulated (due to confidential and security causes) to illustrate the structure needed for effective analysis and model building.
 
 ### Objectives
 
